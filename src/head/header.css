@@ -1,0 +1,28 @@
+.header{
+    display:flex;
+    width:100%;
+    border: 1px solid black;
+    height: 70px;
+}
+.header_right{
+    display: flex;
+    flex:0.3;
+    align-items: center;
+    justify-content: right;
+}
+.header_left{
+    display: flex;
+    flex: 0.7;
+    align-items: center;
+    margin:4px;
+}
+.header_left >h1{
+    font-family:Arial ;
+}
+/* .header_right > h4{
+    font-size: 14px;
+    margin:4px;
+} */
+.icon{
+    margin: 4px;
+}

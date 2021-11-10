@@ -1,0 +1,17 @@
+.mail_heading{
+    display: flex;
+    justify-content: space-between;
+    padding: 2px;
+    align-items: center;
+    margin-bottom: 3px;
+}
+.mail_desc{
+    font-size: 18px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    overflow: hidden;
+    
+}
+.title{
+    font-size: 25px;
+    font-family:'Times New Roman', Times, serif;
+}

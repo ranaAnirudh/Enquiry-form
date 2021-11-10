@@ -1,0 +1,7 @@
+.message__form{
+    display: grid;
+    grid-template-columns: repeat(2,auto);
+}
+.input{
+    margin-top: 5px;
+}
